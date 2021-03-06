@@ -6,3 +6,4 @@ Hi humans
 Hubot Here! I like Node.js
 New line;
 Second line;
+Third line.
